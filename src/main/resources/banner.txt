@@ -1,0 +1,9 @@
+${AnsiColor.RED}                     ,--.            ,--.                                        ,--.                                      ,--.
+${AnsiColor.BRIGHT_YELLOW} ,--,--.,--.--. ,---.|  ,---. ,-----.|  | ,--,--.,--. ,--.,---. ,--.--. ,---.  ,-|  |,-----. ,---. ,--,--.,--,--,--. ,---. |  |,---.
+${AnsiColor.BRIGHT_GREEN}' ,-.  ||  .--'| .--'|  .-.  |'-----'|  |' ,-.  | \  '  /| .-. :|  .--'| .-. :' .-. |'-----'(  .-'' ,-.  ||        || .-. ||  | .-. :
+${AnsiColor.GREEN}\ '-'  ||  |   \ `--.|  | |  |       |  |\ '-'  |  \   ' \   --.|  |   \   --.\ `-' |       .-'  `) '-'  ||  |  |  || '-' '|  \   --.
+${AnsiColor.BLUE} `--`--'`--'    `---'`--' `--'       `--' `--`--'.-'  /   `----'`--'    `----' `---'        `----' `--`--'`--`--`--'|  |-' `--'`----'
+${AnsiColor.CYAN}                                                 `---'                                                              `--'
+${AnsiColor.BRIGHT_RED}If you do nothing, nothing will happens
+${AnsiColor.BLUE}Powered by ${AnsiColor.GREEN}Spring Boot ${spring-boot.version}
+${AnsiColor.DEFAULT}
